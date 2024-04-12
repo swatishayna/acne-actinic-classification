@@ -62,7 +62,7 @@ if add_selectbox == "Demo Info":
     html_actinic = """
             <div style="background-color:#00008B ;font-size:24px;padding:24px">
             <h3 style="color:white;text-align:center;"><b>Actinic Skin Condition</b></h3>
-            <h4 style="color:white;text-align:center;">Acne is a skin condition that occurs when your hair follicles become plugged with oil and dead skin cells. It causes whiteheads, blackheads or pimples. Acne is most common among teenagers, though it affects people of all ages. Effective acne treatments are available, but acne can be persistent. The pimples and bumps heal slowly, and when one begins to go away, others seem to crop up. Depending on its severity, acne can cause emotional distress and scar the skin. The earlier you start treatment, the lower your risk of such problems</h4>
+            <h4 style="color:white;text-align:center;">Actinic keratosis is a rough, scaly patch or bump on the skin. It’s also known as a solar keratosis. Actinic keratoses are very common, and many people have them. They are caused by ultraviolet (UV) damage to the skin. Some actinic keratoses can turn into squamous cell skin cancer. Because of this, the lesions are often called precancer. They are not life-threatening. But if they are found and treated early, they do not have the chance to develop into skin cancer.</h4>
             </div>
                 """
     st.markdown(html_actinic, unsafe_allow_html=True)
