@@ -39,7 +39,7 @@ add_selectbox = st.sidebar.selectbox(
 )
 st.markdown("<p style='text-align: right; color: white;'> "+img_to_html('kpmg.png')+"</p>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; color: white;'> "+img_to_html('national_emblem_resized.png')+"</p>", unsafe_allow_html=True)
-st.markdown("<h1 style='text-align: center; color: blue;'>JHARKHAND HEALTH AI</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: blue;'>Computer Vision Demo</h1>", unsafe_allow_html=True)
 st.markdown("<h3 style='text-align: center; color: grey;'>KPMG DEMO</h3>", unsafe_allow_html=True)
 st.write("\n\n\n\n\n")
 st.write("\n\n\n\n\n")
